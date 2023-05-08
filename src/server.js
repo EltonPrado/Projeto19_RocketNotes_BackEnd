@@ -46,5 +46,5 @@ app.use((error, request, response, next ) => {
   //devolvendo a resposta do error
   //Tudo isso do lado do cliente
 
-const PORT = process.env.PORT || 3333;
+const PORT = process.env.PORT || 10000;
 app.listen(PORT, () => console.log(`Server is running on Port ${PORT}`));

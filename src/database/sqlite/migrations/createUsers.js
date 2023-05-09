@@ -11,4 +11,3 @@ const createUsers = `
 `;
 
 module.exports = createUsers;
-//processo de recriar as tabelas

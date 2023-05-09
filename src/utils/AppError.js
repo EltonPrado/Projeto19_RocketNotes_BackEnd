@@ -7,7 +7,5 @@ class AppError {
     this.statusCode = statusCode;
   }
 }
-//Padronizará o tipo de mensagem de erro que aparecerá quando tiver alguma excessão
 
 module.exports = AppError;
-//Exportando o arquivo AppError
